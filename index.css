@@ -5,3 +5,9 @@
 body{
     background-color: aqua;
 }
+#in{
+    background-color:  green;
+    width: 100vw;
+    padding : 10px;
+    border-radius: 10;
+}
